@@ -1,0 +1,19 @@
+# Temporäre Dateien
+*.tmp
+*.temp
+.DS_Store
+
+# Log-Dateien
+*.log
+logs/
+
+# Abhängigkeiten (Paketmanager)
+node_modules/
+vendor/
+
+# Entwicklungsumgebung
+.env
+.vscode/
+.idea/
+*.suo
+*.user
